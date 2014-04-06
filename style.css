@@ -27,3 +27,36 @@ h1, h2, h3 {
   border-left: 1px dotted #eee;
   -webkit-font-smoothing: antialiased;
 }
+
+#logo .express {
+  display: block;
+  font: 60px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 100;
+  color: #353535;
+  width: 100%;
+}
+
+#logo .description {
+  position: relative;
+  top: -5px;
+  font: 100 60px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #cecece;
+  line-height: .75;
+}
+
+#logo em {
+  font-style: normal;
+  font-weight: 100;
+  font-size: 9px;
+  color: #999;
+  margin-left: 5px;
+}
+
+#logo a {
+  color: #cecece;
+}
+
+#logo a:hover {
+  text-decoration: none;
+  color: #858585;
+}
