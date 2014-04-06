@@ -28,13 +28,6 @@ h1, h2, h3 {
   -webkit-font-smoothing: antialiased;
 }
 
-#logo .express {
-  display: block;
-  font: 60px "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: 100;
-  color: #FFF000;
-  width: 100%;
-}
 
 #logo .description {
   position: relative;
