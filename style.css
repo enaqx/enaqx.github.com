@@ -53,3 +53,12 @@ h1, h2, h3 {
   text-decoration: none;
   color: #858585;
 }
+
+footer {
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   height:30px;
+   width:100%;
+   background:#999;
+}
