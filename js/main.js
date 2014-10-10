@@ -82,12 +82,12 @@ React.renderComponent(
 
 
 React.renderComponent(
-  <Link link="http://google.com" />,
+  <Link link="https://github.com/enaqx/react-interview-answers/blob/master/app/js/loadData.js" />,
   document.getElementById('question3')
 );
 
 React.renderComponent(
-  <Link link="http://facebook.com" />,
+  <Link link="https://github.com/enaqx/react-interview-answers/blob/master/app/js/buildHierarchy.js" />,
   document.getElementById('question4')
 );
 
